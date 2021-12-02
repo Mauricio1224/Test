@@ -1,21 +1,31 @@
 1
 Primera linea de codigo fork
+a
 2
 Segunda linea de codigo fork
 3
+b
 Uno
 4
+c
 Tercera linea de codigo original
 5
+d
 Dos
 6
+e
 Tercera linea de cofigo fork
 7
-Mas lineas 
+f
+Mas lineas
 8
+g
 de codigo desde
 9
+h
 repositorio
 10
+i
 Tres
 11
+1
