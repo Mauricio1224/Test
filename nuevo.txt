@@ -1,10 +1,21 @@
+1
 Primera linea de codigo fork
+2
 Segunda linea de codigo fork
+3
 Uno
+4
 Tercera linea de codigo original
+5
 Dos
+6
 Tercera linea de cofigo fork
+7
 Mas lineas 
+8
 de codigo desde
+9
 repositorio
+10
 Tres
+11
